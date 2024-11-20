@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting PLATINUM-V1!"
+echo "Starting QUEEN_KYLIE-V2 👸❤️🧸"
 node .
 done
