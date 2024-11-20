@@ -27,7 +27,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("👸 Kylie is thinkin, relax your balls •°•° 🤔❤️🧸");
 
       // Define the API URL
       const apiUrl = `https://widipe.com/gpt4?text=${encodeURIComponent(query)}`;
