@@ -40,7 +40,7 @@ smd({
     if (_0x466dd8.reply_message && _0x466dd8.reply_message.groupInvite) {
       var _0x29e5fc = await _0x466dd8.bot.groupAcceptInviteV4(_0x466dd8.chat, _0x466dd8.reply_message.msg);
       if (_0x29e5fc && _0x29e5fc.includes("joined to:")) {
-        return await send(_0x466dd8, "*_Joined_*", {}, '', _0x466dd8);
+        return await send(_0x466dd8, "*_Kylie has Joined_*", {}, '', _0x466dd8);
       }
     }
     let _0x208739 = _0x5b1338 ? _0x5b1338 : _0x466dd8.reply_text;
