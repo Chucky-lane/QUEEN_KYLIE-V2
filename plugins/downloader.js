@@ -58,7 +58,7 @@ const path = require ("path");
 *Followers:* ${followers}
 *Description:* ${description || "No description provided"}
 
-\t*Platinum-V1 WA STALKER*
+\t*QUEEN_KYLIE-V2 WA STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, img, caption, m, {}, "image");
@@ -112,7 +112,7 @@ smd(
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*Platinum-V1 IG STALKER*
+\t*QUEEN_KYLIE-V2 IG STALKER*
 `;
 
       await m.send(caption);
@@ -171,7 +171,7 @@ smd(
 *Account Created:* ${created_at}
 *Last Updated:* ${updated_at}
 
-\t*Platinum-V1 GitHub STALKER*
+\t*QUEEN_KYLIE-V2 GitHub STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, profile_pic, caption, m, {}, "image");
@@ -233,7 +233,7 @@ smd(
          let _0x13ee38 = await getBuffer(_0x3c2608);
          await _0x19df48.reply(_0x13ee38, {
            packname: Config.packname,
-           author: "Platinum-V1-Md"
+           author: "QUEEN_KYLIE-V2"
          }, "sticker");
        } else {
          await _0x19df48.bot.sendMessage(_0x19df48.chat, {
