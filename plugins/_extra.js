@@ -1,4 +1,4 @@
-//platinum-v1 de los campos de la
+//queen_kylie-v2 de los campos de la
 let {
   runtime,
   formatp,
