@@ -49,6 +49,40 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
 ### ❤️ ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
 Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 
+
+
+#### DEPLOY ON KOYEB
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------
+
+
+
+ #### DEPLOY ON RAILWAY
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=red&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+
+#### DEPLOY TO CODESPACES
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
+
+#### DEPLOY IN GLITCH
+
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+--------
+
+
+
+
+
+
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
     <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Render</h3>
