@@ -214,7 +214,7 @@ smd(
   {
     cmdname: "questiongame",
     desc: "Sends a random question from a list of fun and spicy questions.",
-    react: "🔥",
+    react: "📝",
     type: "game",
     filename: __filename,
   },
