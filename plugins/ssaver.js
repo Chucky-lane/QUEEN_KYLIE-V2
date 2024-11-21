@@ -246,7 +246,7 @@ smd(
 smd(
   {
     cmdname: "theking",
-    desc: "Sends an image with the caption 'Ͳհҽ օղҽ ąҍօѵҽ ąӀӀ ìʂ ҟìղց 👑🌍'",
+    desc: "Sends an image with the caption 'QUEEN_KYLIE-V2 👸❤️🧸'",
     react: "👑",
     type: "misc",
     filename: __filename,
@@ -255,7 +255,7 @@ smd(
     try {
       await m.send(
         "https://d.uguu.se/BBuWwwkQ.jpg", // The image URL
-        { caption: "*Ͳհҽ օղҽ ąҍօѵҽ ąӀӀ ìʂ ҟìղց 👑🌍*" }, // The caption
+        { caption: "*QUEEN_KYLIE-V2 👸❤️🧸*" }, // The caption
         "img", // The message type
         m // The message object
       );
