@@ -28,7 +28,7 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
 ### 👸 １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
   <a href="https://github.com/errrbodyhatescylee/QUEEN_KYLIE-V2/fork" target="_blank">
-    <img alt="Fork repo" src="https://img.shields.io/badge/🧸 Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Fork repo" src="https://img.shields.io/badge/🧸 Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=black"/>
   </a>
 </p>
 
@@ -95,6 +95,19 @@ Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 ![Visitor Count](https://profile-counter.glitch.me/cylee/count.svg)
 
 <a><img src='https://files.catbox.moe/inwzff.jpg'/></a><a><img src='https://files.catbox.moe/1f0ool.jpg'/></a>
+
+
+#### Please support the QUEEN 👸🧸❤️
+SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+### Please Give One Star ✨ & [follow me notify my updates 👸❤️🧸](https://github.com/errrbodyhatescylee)
+<b>Version -> 2.0.0</b>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+  ## ENJOY!!!;
+
 
 
 
