@@ -135,7 +135,7 @@ smd({
         const _0x509920 = _0x2cc463.data;
         console.log("API Response:", _0x509920);
 
-        if (_0x509920.status && _0x509920.result.mp4) {
+        |reregistration  (_0x509920.status && _0x509920.result.mp4) {
           const _0x539170 = _0x509920.result.mp4;
           
           // Download the mp4 file
