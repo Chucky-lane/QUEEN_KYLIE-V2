@@ -12,7 +12,17 @@
 
 ---
 
-## 👸 DEPLOYMENT METHODS
+
+<br>
+<p align="center">
+<a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
+<img alt="Development" width="250" src="https://files.catbox.moe/g3wwyk.jpg" /> </p> 
+
+---
+
+## 👸 DEPLOYMENT METHODS :
 Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment method:
 
 ### 👸 １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
@@ -21,6 +31,8 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
     <img alt="Fork repo" src="https://img.shields.io/badge/🧸 Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ### 🧸 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
 - **Pair Code**: 
@@ -31,6 +43,8 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
   <a href="https://above-allpair.onrender.com/wasiqr">
     <img src="https://img.shields.io/badge/QR_Code-32CD32?style=for-the-badge" alt="Click Here to Get QR-Code" width="100">
   </a>
+
+---
 
 ### ❤️ ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
 Pick your favorite platform to deploy QUEEN_KYLIE-V2:
