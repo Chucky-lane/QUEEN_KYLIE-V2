@@ -1,4 +1,4 @@
-### 🧸 QUEEN_KYLIE-V2 🧸
+### 🧸❤️ QUEEN_KYLIE-V2 ❤️🧸
 
 <p align="center">
   <img src="https://files.catbox.moe/inwzff.jpg" alt="QUEEN_KYLIE-V2 Banner" width="450" style="border-radius: 15px;"/>
@@ -49,7 +49,20 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
 ### ❤️ ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
 Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 
+### DEPLOY ON HEROKU
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+--------
+
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/errrbodyhatescylee/Queen_Kylie-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    
+---
 
 #### DEPLOY ON KOYEB
 
@@ -58,12 +71,12 @@ Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 --------
 
 
-
  #### DEPLOY ON RAILWAY
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=red&style=for-the-badge&logo=railway'/></a></p>
 
 --------
+
 
 #### DEPLOY TO CODESPACES
 
@@ -71,81 +84,24 @@ Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 
 --------
 
+
 #### DEPLOY IN GLITCH
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 --------
 
+  #### ```Kylie PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/cylee/count.svg)
+
+<a><img src='https://files.catbox.moe/inwzff.jpg'/></a><a><img src='https://files.catbox.moe/1f0ool.jpg'/></a>
 
 
 
 
 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Render</h3>
-    <a href="https://dashboard.render.com/select-repo?type=web">
-      <img src="https://img.shields.io/badge/-🚀_Deploy_on_Render-black?style=for-the-badge&logo=render&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Render_logo.png" width="50" />
-    <br>
-    <a href="https://dashboard.render.com/signup" style="font-size: 14px;">Create Account</a>
-  </div>
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Clever Cloud</h3>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup">
-      <img src="https://img.shields.io/badge/-☁️_Deploy_on_Clever_Cloud-orange?style=for-the-badge&logo=clever-cloud&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Clever_Cloud_logo.png" width="50" />
-    <br>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup" style="font-size: 14px;">Create Account</a>
-  </div>
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Heroku</h3>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Jupiterbold05/Aboveall">
-      <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Heroku_logo.svg" width="50" />
-    <br>
-    <a href="https://signup.heroku.com/" style="font-size: 14px;">Create Account</a>
-  </div>
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Replit</h3>
-    <a href="https://replit.com/github/Jupiterbold05/Aboveall">
-      <img src="https://img.shields.io/badge/-💻_Deploy_on_Replit-red?style=for-the-badge&logo=replit&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Replit_logo.png" width="50" />
-    <br>
-    <a href="https://replit.com/github/Jupiterbold05/Aboveall" style="font-size: 14px;">Create Account</a>
-  </div>
 
-</div>
-
----
-
-## ⚠️ ＮＯＴＥ
-The script for Pʟᴀᴛɪɴᴜᴍ-V1 is not openly allowed to be used in any of your projects; be warned!
-
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
-<br>
-<p align="center">
-<a href="https://wa.me/2348100835767"><img src="https://img.shields.io/badge/Contact ᴀʙᴏᴠᴇ ᴀʟʟ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<p align="center">
-<img alt="Development" width="250" src="https://i.imgur.com/Vat6Eox.jpeg" /> </p>
-
-## Support
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://github.com/Jupiterbold05/Platinum-V1)
-
-<b>Version -> 2.0.0</b>
