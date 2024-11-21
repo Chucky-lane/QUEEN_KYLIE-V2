@@ -296,8 +296,8 @@ leadtext += `*${i + 1}●Name*: ${naam_ser}
 			    await message.bot.sendUi(message.chat,{
 			caption: `
 ╔════⪨
-║ *Wow,Someone just*
-║ *leveled Up huh⭐*
+║ *Wow, Some idiot just*
+║ *leveled Up hurrayy⭐*
 ║ *👤Name*: ${message.pushName}
 ║ *🎐Level*: ${sck1.level}🍭
 ║ *🛑Exp*: ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
