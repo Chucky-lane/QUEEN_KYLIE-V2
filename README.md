@@ -1,28 +1,28 @@
-# 🌟 Pʟᴀᴛɪɴᴜᴍ-V1 🌟
+### 🧸 QUEEN_KYLIE-V2 🧸
 
 <p align="center">
-  <img src="https://i.imgur.com/7KCi9Qh.jpeg" alt="Pʟᴀᴛɪɴᴜᴍ-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/inwzff.jpg" alt="QUEEN_KYLIE-V2 Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Above+All+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Above+All" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+QUEEN_KYLIE+V2+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Cadillac+Cylee" alt="Typing SVG Animation" />
   </a>
 </p>
 
 ---
 
-## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ
-Get started with Pʟᴀᴛɪɴᴜᴍ-V1 quickly! Choose your preferred deployment method:
+## 👸 DEPLOYMENT METHODS
+Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment method:
 
-### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
+### 👸 １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
-  <a href="https://github.com/Jupiterbold05/Platinum-V1/fork" target="_blank">
-    <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://github.com/errrbodyhatescylee/QUEEN_KYLIE-V2/fork" target="_blank">
+    <img alt="Fork repo" src="https://img.shields.io/badge/🧸 Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
 
-### 🔑 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
+### 🧸 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
 - **Pair Code**: 
   <a href="https://above-allpair.onrender.com/pair">
     <img src="https://img.shields.io/badge/Pair_Code-1E90FF?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
@@ -32,8 +32,8 @@ Get started with Pʟᴀᴛɪɴᴜᴍ-V1 quickly! Choose your preferred deploymen
     <img src="https://img.shields.io/badge/QR_Code-32CD32?style=for-the-badge" alt="Click Here to Get QR-Code" width="100">
   </a>
 
-### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy Pʟᴀᴛɪɴᴜᴍ-V1:
+### ❤️ ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
+Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
