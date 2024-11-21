@@ -1,7 +1,7 @@
 ### 🧸❤️ QUEEN_KYLIE-V2 ❤️🧸
 
 <p align="center">
-  <img src="https://files.catbox.moe/inwzff.jpg" alt="QUEEN_KYLIE-V2 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/nnptat.jpg" alt="QUEEN_KYLIE-V2 Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
@@ -25,16 +25,13 @@
 ## 👸 DEPLOYMENT METHODS :
 Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment method:
 
-### 👸 １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
-<p align="center">
-  <a href="https://github.com/errrbodyhatescylee/QUEEN_KYLIE-V2/fork" target="_blank">
-    <img alt="Fork repo" src="https://img.shields.io/badge/🧸 Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=black"/>
-  </a>
-</p>
+### 👸 １．FORK THIS REPOSITORY 
+
+<a href='https://github.com/errrbodyhatescylee/QUEEN_KYLIE-V2' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ---
 
-### 🧸 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
+### 🧸 ２．GET SESSION_ID 
 - **Pair Code**: 
   <a href="https://above-allpair.onrender.com/pair">
     <img src="https://img.shields.io/badge/Pair_Code-1E90FF?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
@@ -46,7 +43,7 @@ Get started with QUEEN_KYLIE-V2 Real Quick👸! Choose your preferred deployment
 
 ---
 
-### ❤️ ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
+### ❤️ ３．DEPLOY ON DIFFERENT PLATFORMS
 Pick your favorite platform to deploy QUEEN_KYLIE-V2:
 
 ### DEPLOY ON HEROKU
